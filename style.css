@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+/* * {
+    font-size: 30px;
+} */
+
+/* h1 {
+    color: red;
+} */
+
+P {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#heading1 {
+    color: red;
+}
+
+#heading2 {
+    color: blue;
+}
+
+#heading3 {
+    color: green;
+}
+
+#box {
+
+    background-color: yellow;
+    color: brown;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
